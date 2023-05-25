@@ -1,0 +1,1 @@
+# syamuRemoteTemplete.github.io
