@@ -1,6 +1,6 @@
 #i!/bin/bash
 GIT=git@github.com:syamu99/syamuRemoteTemplete.github.io.git
-REPO=tejazelar.github.io
+REPO=syamuRemoteTemplete.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
 PKG=apt
 FILE=2103_central
@@ -21,4 +21,4 @@ git status
 sleep 2
 git commit -m "$(date)"
 git push -f
-figlet done
+figlet don
