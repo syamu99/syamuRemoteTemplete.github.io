@@ -1,5 +1,5 @@
 #!/bin/bash
-GIT=git@github.com:tejazelar/tejazelar.github.io.git
+GIT=git@github.com:syamu99/syamuRemoteTemplete.github.io.git
 REPO=tejazelar.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
 PKG=apt
