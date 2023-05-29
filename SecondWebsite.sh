@@ -1,4 +1,4 @@
-#i!/bin/bash
+#!/bin/bash
 GIT=git@github.com:syamu99/syamuRemoteTemplete.github.io.git
 REPO=syamuRemoteTemplete.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
