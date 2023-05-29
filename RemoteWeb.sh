@@ -1,4 +1,4 @@
-#!/bin/bash
+#i!/bin/bash
 GIT=git@github.com:syamu99/syamuRemoteTemplete.github.io.git
 REPO=tejazelar.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
@@ -9,12 +9,12 @@ sudo $PKG install wget git unzip figlet -y
 git clone $GIT
 mkdir -p webfiles
 cd webfiles
-sudo wget $WEBSITE10
+sudo wget $WEBSITE
 sudo unzip -o $FILE.zip
 sudo rm -rf ~/$REPO/*
 sudo cp -r $FILE/* ~/$REPO/
 cd ..
-sudo rm -rf webfiles10
+sudo rm -rf webfiles
 cd ~/$REPO
 git add .
 git status
