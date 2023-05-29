@@ -21,4 +21,4 @@ git status
 sleep 2
 git commit -m "$(date)"
 git push -f
-figlet done
+figlet done     
